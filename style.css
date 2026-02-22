@@ -21,7 +21,7 @@
 }
 
 .logo {
-    background-image: url(amazon_logo.png);
+    background-image: url(logo/amazon_logo.png);
     height: 50px;
     width: 114px;
     background-size: cover;
@@ -107,7 +107,7 @@
 
 /* box 4 */
 .search-logo {
-    background-image: url(world.png);
+    background-image: url(logo/world.png);
     height: 13px;
     width: 16px;
     background-size: cover;
@@ -212,7 +212,7 @@ span {
 
 /* hero section */
 .hero-section {
-    background-image: url(hero_image.jpg);
+    background-image: url(images/hero_image.jpg);
     height: 350px;
     background-size: cover;
     display: flex;
@@ -328,7 +328,7 @@ ul a {
 }
 
 .logo-amz {
-     background-image: url(amazon_logo.png);
+     background-image: url(logo/amazon_logo.png);
     height: 50px;
     width: 100px;
     background-size: cover;
